@@ -1,0 +1,5 @@
+http://localhost/api/v1/empleados -GET 
+http://localhost/api/v1/empleado/1 -GET
+http://localhost/api/v1/crear -POST
+http://localhost/api/v1/actualizar/1 -PUT
+http://localhost/api/v1/eliminar/1 - DELETE
